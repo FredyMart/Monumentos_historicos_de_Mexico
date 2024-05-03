@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Monumentos Mexicanos</string>
+    <string name="monumento1">Angel de la Independencia,\nAntonio Rivas Mercado,\n1902.</string>
+    <string name="monumento2">Castillo de Chapultepec,\nVirrey Bernardo de Gálvez,\n1785 .</string>
+    <string name="monumento3">Catedral Metropolitana,\nManuel Tolsá, Claudio de Arciniega,\n13 de marzo 1570.</string>
+    <string name="monumento4">Chichen Itza,\n Itzaes,\n415 y 435 D.C.</string>
+    <string name="monumento5">Basilica de la Santa Maria de Gualupe,\nPedro de Arrieta,\n 1695.</string>
+    <string name="monumento6">Monumento a los Niños Herores,\nErnesto Tamariz,\n1947 y 1952.</string>
+    <string name="monumento7">Templo Mayor,\nfray Diego Duran,\n 1325 D.C.</string>
+    <string name="monumento8">Palacio de Bellas Artes,\nAdamo Boari, Federico Mariscal,
+	Francisco Javier Alejandro Octavio Gómez de la Serna,
+	Gonzalo Garita,\n1904.</string>
+    <string name="monumento9">Museo Frida Kahlo,\nJuan O’ Gorman,\n1955.</string>
+    <string name="monumento10">Zocalo de Puebla,\nJuan Antonio de Santa María,\n18 de Junio 1814.</string>
+</resources>
